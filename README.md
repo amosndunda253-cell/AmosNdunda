@@ -35,5 +35,6 @@ I believe in:
 ---
 
 ## 📈 GitHub Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmosNdunda&show_icons=true&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmosNdunda&layout=compact)
+
 # AmosNdunda
