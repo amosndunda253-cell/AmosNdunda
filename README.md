@@ -32,9 +32,4 @@ I believe in:
 ## 🤝 Let's Connect
 - **Email:** amosndunda253@gmail.com
 
----
-
-## 📈 GitHub Overview
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmosNdunda&layout=compact)
-
 # AmosNdunda
